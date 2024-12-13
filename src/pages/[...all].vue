@@ -4,6 +4,7 @@ const { t } = useI18n()
 
 <template>
   <div>
+    123
     {{ t('not-found') }}
   </div>
 </template>
